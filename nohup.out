@@ -1,0 +1,7 @@
+ℹ️ found bin NILLION_DEVNET     -> [/root/.nilup/sdks/latest/nillion-devnet]
+ℹ️ found bin NILLION_CLI        -> [/root/.nilup/sdks/latest/nillion]
+--------------------
+Updating your .env files with nillion-devnet environment info... This may take a minute.
+--------------------
+./bootstrap-local-environment-colab.sh: line 25: /root/.nilup/sdks/latest/nillion-devnet: No such file or directory
+Timeout reached while waiting for cluster to be ready in '/tmp/tmp.EgMQrCH3hY'
